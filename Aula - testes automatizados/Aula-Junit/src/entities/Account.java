@@ -1,10 +1,5 @@
 package entities;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-
 public class Account {
     public static double DEPOSIT_FEE_PERCENTAGE = 0.02;
 

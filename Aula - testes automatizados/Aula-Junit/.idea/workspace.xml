@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6411c85-9740-49bf-841b-6f9a35cf9f87" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/TDD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula-Junit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula-Junit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/entities/AccountTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/entities/AccountTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/DscatalogApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/dto/CategoryDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/dto/ProductDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/entities/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/repositories/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/repositories/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/resources/CategoryResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/resources/ProductResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/resources/exceptions/ResourceExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/resources/exceptions/StandardError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/services/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/services/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/services/exceptions/DatabaseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/java/com/devsuperior/dscatalog/services/exceptions/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/resources/application-test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/main/resources/import.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/test/java/com/devsuperior/dscatalog/DscatalogApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/test/java/com/devsuperior/dscatalog/repositories/ProductRepositoryTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/test/java/com/devsuperior/dscatalog/resources/ProductResourceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/test/java/com/devsuperior/dscatalog/resources/ProductResourceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/test/java/com/devsuperior/dscatalog/services/ProductServiceIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/test/java/com/devsuperior/dscatalog/services/ProductServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dscatalog-cap2/src/test/java/com/devsuperior/dscatalog/tests/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-testes-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-testes-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio-testes-java/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2gNkxs2pk6yUziXIrEzZd70h8D5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Spring Java Expert/cap2- TDD/exercicio-testes-java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="AccountTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aula-Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.entities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.entities" />
+      <option name="MAIN_CLASS_NAME" value="tests.entities.AccountTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6411c85-9740-49bf-841b-6f9a35cf9f87" name="Changes" comment="" />
+      <created>1715545673166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715545673166</updated>
+    </task>
+    <servers />
+  </component>
+</project>

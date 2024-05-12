@@ -1,7 +1,7 @@
 package tests.entities;
 import entities.Account;
-import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 import tests.factory.AccountFactory;
 
 
