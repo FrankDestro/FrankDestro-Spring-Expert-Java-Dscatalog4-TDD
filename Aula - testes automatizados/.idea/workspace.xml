@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6411c85-9740-49bf-841b-6f9a35cf9f87" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Aula-Junit/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-Junit/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-Junit/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-Junit/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-Junit/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-Junit/Aula-Junit.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-Junit/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-Junit/src/entities/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-Junit/src/tests/entities/AccountTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula-Junit/src/tests/factory/AccountFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercicio-testes-java/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercicio-testes-java/src/entities/Financing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercicio-testes-java/src/exercicio-testes-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-testes-java/src/exercicio-testes-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercicio-testes-java/src/out/production/exercicio-testes-java/exercicio-testes-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-testes-java/src/out/production/exercicio-testes-java/exercicio-testes-java.iml" afterDir="false" />
-    </list>
+    <list default="true" id="d6411c85-9740-49bf-841b-6f9a35cf9f87" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
