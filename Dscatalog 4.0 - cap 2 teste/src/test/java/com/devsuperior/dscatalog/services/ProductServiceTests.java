@@ -7,14 +7,14 @@ import com.devsuperior.dscatalog.factory.ProductFactory;
 import com.devsuperior.dscatalog.repositories.CategoryRepository;
 import com.devsuperior.dscatalog.repositories.ProductRepository;
 import com.devsuperior.dscatalog.services.exceptions.DatabaseException;
-
 import com.devsuperior.dscatalog.services.exceptions.ResourceNotFoundException;
 import jakarta.persistence.EntityNotFoundException;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
-import org.mockito.*;
+import org.mockito.ArgumentMatchers;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
@@ -43,6 +43,7 @@ public class ProductServiceTests {
 
     private long existingId;
     private long nonExistingId;
+
     private long dependentId;
     private PageImpl<Product> page;
     private Product product;
@@ -58,7 +59,6 @@ public class ProductServiceTests {
         product = ProductFactory.createProduct();
         productDTO = ProductFactory.createProductDTO();
         page = new PageImpl<>(List.of(product)); // instancia um objeto page do tipo PageImpl<> adicionnado um produto na lista.
-
 
         // Configuração do comportamento Simulado do repository para teste de unidade.
 
