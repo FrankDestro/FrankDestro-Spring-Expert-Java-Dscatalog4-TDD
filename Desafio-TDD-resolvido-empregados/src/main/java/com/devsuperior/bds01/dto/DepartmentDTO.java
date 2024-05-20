@@ -1,5 +1,6 @@
 package com.devsuperior.bds01.dto;
 
+import com.devsuperior.bds01.entities.Department;
 import com.devsuperior.bds01.entities.Employee;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -10,20 +11,17 @@ import java.io.Serializable;
 
 @Getter
 @Setter
-@AllArgsConstructor
 @NoArgsConstructor
-public class EmployeeDTO implements Serializable {
+@AllArgsConstructor
+
+public class DepartmentDTO implements Serializable {
     private static final long serialVersionUID = 1L;
 
-    private Long id;
-    private String name;
-    private String email;
-    private Long departmentId;
+    public Long id;
+    public String name;
 
-    public EmployeeDTO(Employee entity) {
+    public DepartmentDTO(Department entity) {
         id = entity.getId();
         name = entity.getName();
-        email = entity.getEmail();
-        departmentId = entity.getDepartment().getId();
     }
 }

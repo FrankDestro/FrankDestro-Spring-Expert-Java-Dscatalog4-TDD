@@ -16,3 +16,4 @@ INSERT INTO tb_employee(name, email, department_id) VALUES ('Tiago', 'maria@gmai
 INSERT INTO tb_employee(name, email, department_id) VALUES ('Andressa', 'maria@gmail.com', 2);
 INSERT INTO tb_employee(name, email, department_id) VALUES ('Meire', 'maria@gmail.com', 3);
 INSERT INTO tb_employee(name, email, department_id) VALUES ('Carol', 'maria@gmail.com', 1);
+--INSERT INTO tb_employee(name, email, department_id) VALUES ('Joaquim', 'joaquim@gmail.com', 1);
